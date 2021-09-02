@@ -1,0 +1,109 @@
+<!--
+Pronouns.page Knockoff by SciFiRenegade
+Rules:
+-Do not remove credit.
+-You may edit and frankenstein to your heart's content (please leave credit).
+-Turn off WYSIWG off.
+-->
+<div class="row no-gutters p-2 card justify-content-center">
+    <!--Icon start-->
+        <div class="card border-0 rounded-circle" style="background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/characters/10628700?1629835128);background-size:cover;height:100px;width:100px;position:relative;z-index:2;">
+    <!--Icon end-->
+    <!--Name start-->
+        <div class="col-lg-6 p-3" style="margin-left:150px;"><h1 class="display-1" style="letter-spacing:4px;font-weight:400">NAME</h1></div>
+    <!--Name end-->
+    </div>
+    <br>
+    <!--Bio start-->
+    <div class="card col-6 border-0" style="max-height:100px;overflow-y:auto;font-size:15px;"><p>Write your bio here the box will scroll :)</p></div>
+    <br>
+    <p><i class="fas fa-birthday-cake"></i> AGE</p>
+    <!--Bio end-->
+    <!--Flags start-->
+            <p class="pt-4 text-center">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+            <img class="tooltipster" data-toggle="tooltip" title="gaaaaay" src="https://f2.toyhou.se/file/f2-toyhou-se/images/33146529_uno5PQ8gtf8Cbu0.png" width="25">
+    <!--Flags end; add more above :3-->
+    </p>
+    </div>
+    <div class="row">
+    <!--Names start-->
+    <div class="col-4 border-0" style="font-size:15px;">
+        <p style="font-size:2em">
+            <i class="fas fa-signature"></i> NAMES
+        </p>
+        <ul class="fa-ul my-1">
+        <li class="mb-1"><span><i class="fas fa-heart mr-1"></i></span> name</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> name</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> name</li>
+        <!--add more above-->
+        </ul>
+    </div>
+    <!--Names end-->
+    <!--pronouns start-->
+    <div class="col-4 border-0" style="font-size:15px;">
+    <p style="font-size:2em">
+            <i class="fas fa-tags"></i> PRONOUNS</p>
+            <ul class="fa-ul my-1">
+        <li class="mb-1"><span><i class="fas fa-heart mr-1"></i></span> pronoun</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> pronoun</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> pronoun</li>
+        <!--add more above-->
+        </ul>
+        </div>
+        <!--pronouns end-->
+            <!--links start-->
+    <div class="col-4 border-0" style="font-size:15px;">
+    <p style="font-size:2em">
+            <i class="fas fa-link"></i> LINKS</p>
+            <ul class="fa-ul my-1">
+        <li class="mb-1"><span><i class="fab fa-instagram mr-1"></i></span> <a href="LINK">pics</a></li>
+        <li class="mb-1"><span><i class="fab fa-facebook mr-1"></i></span> <a href="LINK">book of faces</a></li>
+        <li class="mb-1"><span><i class="fab fa-twitter mr-1"></i></span> <a href="LINK">piu piu</a></li>
+        <li class="mb-1"><span><i class="fab fa-tumblr mr-1"></i></span> <a href="LINK">is this even alive</a></li>
+        <li class="mb-1"><span><i class="far fa-wifi mr-1"></i></span> <a href="LINK">check out my wbsite</a></li>
+        <!--add more above-->
+        </ul>
+        </div>
+        <!--links end-->
+        <!--noun start-->
+        <p style="font-size:2em">
+            <i class="fas fa-scroll"></i> WORDS</p>
+            <br>
+   <div class="row no-gutters" style="font-size:15px;">
+            <ul class="fa-ul my-1">
+            <li class="mb-1"><span><i class="fas fa-heart mr-1"></i></span> [no honorific]</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> mx</li>
+         <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> mr</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> ms</li>  
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> sir</li> 
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> ma'am</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> madam</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> comrade</li>
+        <!--add more above-->
+        </ul>
+<ul class="fa-ul my-1">
+            <li class="mb-1"><span><i class="fas fa-heart mr-1"></i></span> [no honorific]</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> mx</li>
+         <li class="mb-1"><span><i class="far fa-thumbs-up mr-1"></i></span> mr</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> ms</li>  
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> sir</li> 
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> ma'am</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> madam</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> comrade</li>
+        <!--add more above-->
+        </ul>
+        <ul class="fa-ul my-1">
+                    <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> madam</li>
+        <li class="mb-1"><span><i class="far fa-thumbs-down mr-1"></i></span> comrade</li>
+        <!--add more-above-->
+        </ul>
+        </div>
+        <!--noun end-->
+        </div>
